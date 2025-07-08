@@ -70,5 +70,3 @@ For anyone tired of manually quoting strings and debugging malformed brackets.
 ## 📄 License
 
 MIT License
-
-```
