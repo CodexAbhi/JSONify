@@ -22,11 +22,6 @@ A Streamlit-based multi-tool for working with JSON — build, convert, format, a
 - 🧠 **LLM-Optimized**  
   Designed for editing prompt templates, serialized inputs, and structured examples used in generative AI workflows.
 
-## 🖼️ UI Preview
-
-> 🎥 Add a GIF or screenshot here for bonus style  
-> _(Use [carbon.now.sh](https://carbon.now.sh/) or [Licecap](https://www.cockos.com/licecap/) for quick screen recordings)_
-
 ## 🔧 Installation
 
 ```bash
