@@ -1,4 +1,4 @@
-# 🔧 jsonify
+# 🔧 JSONify
 
 A Streamlit-based multi-tool for working with JSON — build, convert, format, and validate with ease.
 
